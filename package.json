@@ -1,6 +1,6 @@
 {
-	"name": "bold-sound-9d68",
-	"version": "0.0.0",
+	"name": "python-worker",
+	"version": "0.0.1",
 	"private": true,
 	"scripts": {
 		"deploy": "wrangler deploy",
